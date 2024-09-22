@@ -1,6 +1,6 @@
 ## Hi there
 
-![![itch](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&color=black)](https://python-zzy.itch.io/)
+[![itch](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&color=black)](https://python-zzy.itch.io/)
 
 Python编程爱好者，可以在我的[CSDN](https://blog.csdn.net/qq_48979387)主页查看我写的文章:
 
